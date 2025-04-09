@@ -8,9 +8,6 @@ y ejecutar el código de automatización.
 -La página de prueba https://www.saucedemo.com/  tiene un mejor funcionamiento con el browser "Microsoft Edge",
 en Chrome tiene muchas inconsistencias al momento de ejecutar
 
--La automatización fue diseñada con el fin de cubrir los aspectos mas importantes tratando de validar en su mayoría 
-los aspecto mas importantes.
-
 -El Framework de automatización me pareció bastante interesante y me permitió mejorar y ampliar mi enfoque con respecto
 al uso de nuevas herramientas para automatizar pruebas.
 
